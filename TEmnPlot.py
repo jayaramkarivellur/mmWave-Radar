@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 
 def plot_te_mode(m, n, a=1.0, b=0.5, resolution=100):
     """
+
+    
     Plot the magnitude of the TE_mn mode field pattern in a rectangular waveguide.
     
     Parameters:
